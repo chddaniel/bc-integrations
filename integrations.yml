@@ -519,7 +519,7 @@ integrations:
     image: extras/senomix.png
     category: 2
   - title: "Basecamp Translator"
-    description: "Free, open-source English–Spanish translations for to-do titles, descriptions, and comments. Deploy your own copy to Cloudflare."
+    description: "Auto-translate to-dos and comments between any Google NMT-supported language pair. Free, open source, and self-hosted on Cloudflare."
     url: "https://github.com/chddaniel/basecamp-translator"
     image: extras/basecamp-translator.png
     category: 9
